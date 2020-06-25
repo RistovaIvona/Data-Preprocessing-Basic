@@ -8,4 +8,4 @@ This is a repository that covers basic staff about data preprocessing for Machin
 
 - pandas
 - numpy
-- math
+
